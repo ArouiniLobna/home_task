@@ -41,3 +41,9 @@
 
 - Ensure that all components are accessible, with appropriate ARIA labels for screen readers and keyboard navigability.
 - Provide meaningful labels and metadata to enhance SEO, even for a primarily single-page app.
+
+## 9. Building Reusable Atomic Components
+
+- Create reusable atomic components such as buttons, inputs, and modals to maintain a consistent UI and improve development efficiency.
+- Ensure each component is flexible and configurable (e.g., a button component that supports different colors, sizes, and states).
+- Reusable components help to standardize styling and functionality across the app, reducing code duplication and making future updates easier.
